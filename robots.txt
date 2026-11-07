@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umiyajari.github.io/sitemap.xml
